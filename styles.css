@@ -2,9 +2,7 @@ blockquote{
 	max-width:600px;
 	margin:10px;
 	padding:15px;
-	border-left:8px;
-	border-left-style:solid;
-	border-left-color:green;
+	border-left:8px solid green;
 	background-color:#f8fffe;
 	font-weight:bold;
 }
